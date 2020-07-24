@@ -5,10 +5,6 @@ npm命令是从国外服务器下载安装模块，受网络速度影响，cnpm�
 
 
 
-
-
-
-
 全局安装nodemon模块
 自动重启js，不需要频繁的ctrl+c手动重启
 cnpm install nodemon -g
@@ -37,6 +33,7 @@ cnpm init -y 生成package.json配置文件
     views/          存放ejs视图模板文件
     route/          存放路由文件
     model/          处理存放file操作的文件
+    temp/           临时保存上传图片
     app.js          服务器启动文件
     
 
